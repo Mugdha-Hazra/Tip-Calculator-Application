@@ -27,6 +27,12 @@ things we needed to build :
 # container is a window that going to house the application.
 
 
+'''
+from tkinter import * 
+#if u are not sure u can import the whole module like the above.
+'''
+
+
 
 
 from tkinter import Tk, Radiobutton, Button, Label, StringVar, IntVar, Entry
